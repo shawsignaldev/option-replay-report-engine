@@ -17,7 +17,7 @@ Short-dated option research can look profitable when the backtest ignores spread
 - Theta drag and volatility contribution estimates.
 - Spread cost in basis points.
 - Reward-to-risk calculation from target and stop.
-- Evidence-gated quality score.
+- evidence-gated quality score.
 - Promote, Watchlist, or Reject verdict.
 - Markdown report rendering for recruiter and research review.
 
